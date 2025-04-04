@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(143, 102, 0);
+    margin: 50px;
+    text-align: center;
+    border: 2px solid;
+}
+h2{
+    color: rgb(162, 249, 2);
+    text-align: center;
+    font-size: 20px;
+    background-color: blue;
+}
+#img{
+    border-radius: 50px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+#skills{
+    list-style-type: none;
+}
+
+#nav a{
+    margin-left: 30px;
+    color: turquoise;
+}
+
+#nav a:hover{
+    color: rgb(139, 1, 70);
+}
+.press{
+    border: 2px solid;
+    background-color: rgb(85, 7, 254);
+    color: rgb(89, 215, 254);
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.press:hover{
+    color: rgb(139, 1, 70);
+}
+
+#projects{
+    list-style-type: none;
+    display: block;
+   
+}
+
+#projects a:hover{
+    color: rgb(139, 1, 70);
+}
+
+#contacts a:hover{
+    color: rgb(139, 1, 70);
+}
+#contacts a{
+    color: rgb(0, 55, 255);
+    cursor: pointer;
+}
